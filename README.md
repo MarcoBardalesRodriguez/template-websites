@@ -12,27 +12,28 @@
 
 ## Sitios web
 
-### [Theme Wagon](https://themewagon.com/" target="_blank)
+### [Theme Wagon](https://themewagon.com/)
 ![temewagon.com](./themewagon.png)
 
-### [Templatemo](https://templatemo.com/page/1" target="_blank)
+### [Templatemo](https://templatemo.com/page/1)
 ![templatemo.com](./templatemo.png)
 
-### [Untree](https://untree.co/" target="_blank)
+### [Untree](https://untree.co/)
 ![untree.co](./untree.png)
 
-### [Nicepage](https://nicepage.com/html-templates" target="_blank)
+### [Nicepage](https://nicepage.com/html-templates)
 ![nicepage.com](./nicepage.png)
 
-### [Plantillas HTML Gratis](https://plantillashtmlgratis.com/" target="_blank)
+### [Plantillas HTML Gratis](https://plantillashtmlgratis.com/)
 ![plantillashtmlgratis.com](./plantillashtmlgratis.png)
 
 ---
 
 # Sitios web para generar carruseles 
 
-### [Comslider](https://www.comslider.com/" target="_blank)
+### [Comslider](https://www.comslider.com/)
 ![comslider.com](./comslider.png)
 
 > Credenciales de prueba: 
+
 > marcobardalesrodriguez@gmail.com | comslider/01
