@@ -26,3 +26,13 @@
 
 ### [Plantillas HTML Gratis](https://plantillashtmlgratis.com/)
 ![plantillashtmlgratis.com](./plantillashtmlgratis.png)
+
+---
+
+# Sitios web para generar carruseles 
+
+### [Comslider](https://www.comslider.com/)
+![comslider.com](./comslider.png)
+
+> Credenciales de prueba: 
+> marcobardalesrodriguez@gmail.com | comslider/01
