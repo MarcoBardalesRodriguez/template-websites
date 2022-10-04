@@ -12,26 +12,26 @@
 
 ## Sitios web
 
-### [Theme Wagon](https://themewagon.com/)
+### [Theme Wagon](https://themewagon.com/" target="_blank)
 ![temewagon.com](./themewagon.png)
 
-### [Templatemo](https://templatemo.com/page/1)
+### [Templatemo](https://templatemo.com/page/1" target="_blank)
 ![templatemo.com](./templatemo.png)
 
-### [Untree](https://untree.co/)
+### [Untree](https://untree.co/" target="_blank)
 ![untree.co](./untree.png)
 
-### [Nicepage](https://nicepage.com/html-templates)
+### [Nicepage](https://nicepage.com/html-templates" target="_blank)
 ![nicepage.com](./nicepage.png)
 
-### [Plantillas HTML Gratis](https://plantillashtmlgratis.com/)
+### [Plantillas HTML Gratis](https://plantillashtmlgratis.com/" target="_blank)
 ![plantillashtmlgratis.com](./plantillashtmlgratis.png)
 
 ---
 
 # Sitios web para generar carruseles 
 
-### [Comslider](https://www.comslider.com/)
+### [Comslider](https://www.comslider.com/" target="_blank)
 ![comslider.com](./comslider.png)
 
 > Credenciales de prueba: 
